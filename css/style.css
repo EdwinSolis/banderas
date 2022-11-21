@@ -1,0 +1,28 @@
+article{
+    display: none;
+    width: 100%;
+    
+}
+
+fieldset{
+    width: 250px;
+}
+
+content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+contenedor{
+    margin: 0 auto;
+}
+
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
